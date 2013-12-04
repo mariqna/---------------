@@ -1,0 +1,68 @@
+<html>
+<head>
+<title> ШИПКА </title>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+<body BACKGROUND ="red-wallpaper.jpg" >
+<center>
+<BR><BR><b><font face="courier" size="24" color="ffffff"> ШИПКА </font> <BR> 
+<center>
+<BR>
+<a href="19.10.2012.html"><button type="button">Начало</button></a>
+<a href="vino.html"><button type="button">Шипково вино</button></a>
+<a href="marmalad.html"><button type="button">Шипков мармалад</button></a>
+<a href="klub.html"><button type="button">Влезте в клуба</button></a>
+<br><br><br>
+<font face="courier" size="6" color="ffffff">РЕГИСТРИРАЙ СЕ СЕГА ЗА ДА ВЛЕЗЕШ В КЛУБА НИ:</font><BR>
+<form>
+<table>
+<tr>
+<td><font face="courier" size="4" color="ffffff">Потребителско име:</font></td>
+<td></td>
+<td><input type="text" size="20"></td>
+</tr>
+<tr>
+<td><font face="courier" size="4" color="ffffff">Парола:</font></td>
+<td></td>
+<td><input type="password" name="pwd"></td>
+</tr><tr>
+<td><font face="courier" size="4" color="ffffff">Повторете паролата:</font></td>
+<td></td>
+<td><input type="password" name="pwd"></td>
+</tr>
+<tr>
+<td><font face="courier" size="4" color="ffffff">И-мейл:</font></td>
+<td></td>
+<td><input type="text" size="20"></td>
+</tr>
+<tr>
+<td><font face="courier" size="4" color="ffffff">Повторете И-мейла:</font></td>
+<td></td>
+<td><input type="text" size="20"></td>
+</tr>
+<tr>
+<td><font face="courier" size="4" color="ffffff">Пол:</font></td>
+<td></td>
+<td><font face="courier" size="4" color="ffffff">Мъж</font><input type="radio" name="r1" value="v1"><font face="courier" size="4" color="ffffff"> Жена</font><input type="radio" name="r2" value="v2"></td>
+</tr>
+<tr>
+<td><font face="courier" size="4" color="ffffff">Таен въпрос:</font></td>
+<td></td>
+<td><input type="text" size="20"></td>
+</tr>
+<tr>
+<td><font face="courier" size="4" color="ffffff">Таен отговор:</font></td>
+<td></td>
+<td><input type="text" size="20"></td>
+</tr>
+<tr>
+<td><font face="courier" size="4" color="ffffff">Дата на раждане:</font></td>
+<td></td>
+<td><select name="data">
+<option value="Дата" selected>Дата</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
